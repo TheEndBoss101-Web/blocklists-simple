@@ -6429,3 +6429,5 @@ www2.roblox.com
 xboxlive.api.roblox.com
 zendesk1.roblox.com
 zendesk2.roblox.com
+robloxlabs.com
+robloxapi.com
