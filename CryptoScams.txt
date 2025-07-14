@@ -1,0 +1,6 @@
+!Title: Crypto Scams
+!Description: A list of sites that contain crypto scams
+!Homepage: https://github.com/TheEndBoss101-Web/blocklists-simple
+
+eth-q.org
+usdart.top
